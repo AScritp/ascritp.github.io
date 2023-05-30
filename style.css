@@ -940,5 +940,7 @@ color: var(--black);
 
     html{
         font-size: 50%;
+        width: 51.5rem;
     }
+    
 }
