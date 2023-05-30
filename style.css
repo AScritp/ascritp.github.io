@@ -939,8 +939,9 @@ color: var(--black);
 @media screen and (max-width: 450px){
 
     html{
-        font-size: 50%;
+        font-size: 51.5%;
         width: 51.5rem;
     }
+    
     
 }
